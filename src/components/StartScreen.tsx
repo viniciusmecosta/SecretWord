@@ -1,4 +1,4 @@
-import "./StartScreen.css";
+import "../Styles/StartScreen.css";
 
 interface StartScreenProps {
   start: () => void;
